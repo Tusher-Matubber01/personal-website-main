@@ -1,0 +1,27 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+}
+nav{
+    position: absolute;
+    right: 0;
+    padding: 25px;
+    margin-right: 60px;
+}
+.navbar{
+    text-decoration: none;
+    padding-right: 25px;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.name-highlight{
+    color:rgb(236, 91, 75);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
